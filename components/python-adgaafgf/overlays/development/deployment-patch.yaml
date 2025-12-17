@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.cluster-wm7t4.wm7t4.sandbox867.opentlc.com/rhtap/python-adgaafgf:2cb0584cf21c7ce3a30f14588e8e383f80de3877@sha256:4465d10157ab5ba81f0f6f2c4bb2989618827d22ce884bb6df0f44ce0481abe5
+        - image: nexus-docker-nexus.apps.cluster-wm7t4.wm7t4.sandbox867.opentlc.com/rhtap/python-adgaafgf:2221b89b2cec37d012dc636c1966d8c5f2afa97e@sha256:1c64217a8aa0f124b3ef586c1c3dcb3971445da4dde6d7244887488a77f1fc6b
           name: container-image
